@@ -1,0 +1,15 @@
+D:\UNI\BYT\Ass4\Project\Part1Proj\bin\Debug\net10.0\Part1Proj.exe
+D:\UNI\BYT\Ass4\Project\Part1Proj\bin\Debug\net10.0\Part1Proj.deps.json
+D:\UNI\BYT\Ass4\Project\Part1Proj\bin\Debug\net10.0\Part1Proj.runtimeconfig.json
+D:\UNI\BYT\Ass4\Project\Part1Proj\bin\Debug\net10.0\Part1Proj.dll
+D:\UNI\BYT\Ass4\Project\Part1Proj\bin\Debug\net10.0\Part1Proj.pdb
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\Part1Proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\Part1Proj.AssemblyInfoInputs.cache
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\Part1Proj.AssemblyInfo.cs
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\Part1Proj.csproj.CoreCompileInputs.cache
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\Part1Proj.sourcelink.json
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\Part1Proj.dll
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\refint\Part1Proj.dll
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\Part1Proj.pdb
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\Part1Proj.genruntimeconfig.cache
+D:\UNI\BYT\Ass4\Project\Part1Proj\obj\Debug\net10.0\ref\Part1Proj.dll
